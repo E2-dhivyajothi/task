@@ -1,0 +1,9 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.Registration{
+    height: 70%;
+    width:  100%;
+    background-color:rgb(70, 138, 206);
+}
